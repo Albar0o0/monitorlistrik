@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Monitoring Listrik</string>
+    <string name="monitoring_listrik">Monitoring Listrik</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="history_pemakaian">History Pemakaian</string>
+    <string name="textview">TextView</string>
+    <string name="ampere">Ampere</string>
+    <string name="textview2">TextView2</string>
+    <string name="volt">Volt</string>
+    <string name="textview3">TextView3</string>
+    <string name="kwh">kWh</string>
+    <string name="textview4">TextView4</string>
+    <string name="rupiah">Rupiah</string>
+</resources>
